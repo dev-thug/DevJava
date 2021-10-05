@@ -12,6 +12,7 @@ public class TreeSetExample {
         scores.add(95);
         scores.add(80);
 
+
         Integer score = null;
 
         score = scores.first();
