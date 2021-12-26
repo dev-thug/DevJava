@@ -2,9 +2,6 @@ package com.hayagou.algorithm;
 
 import java.util.Arrays;
 
-/**
- * @author THKim
- */
 public class DisjointSet {
 
     static int N; // 원소개수
